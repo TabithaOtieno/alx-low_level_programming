@@ -1,4 +1,4 @@
-TASKS IN C PROGRAMMING - HELLO WORLD PROJECT
+TASKS IN FIRST C PROGRAMMING PROJECT - HELLO WORLD 
 
 0 - a script that runs a C file through the preprocessor and save the result into another file
 
