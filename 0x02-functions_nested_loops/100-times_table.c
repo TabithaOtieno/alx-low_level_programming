@@ -7,7 +7,7 @@ void print_times_table(int n)
 {
 	if (n > 15 || n <  0)
 	{
-		_putchar(' ');
+
 	}
 	else
 	{
@@ -24,8 +24,8 @@ void print_times_table(int n)
 				if (z <= 9)
 					_putchar(' ');
 				else
-					_putchar((z / 10) + '0');
-				_putchar((z % 10) + '0');
+					_putchar(z / 10 + '0');
+				_putchar(z % 10 + '0');
 			}
 		_putchar('\n');
 		}
