@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-*_strncpy - copes a string
+*_strncpy - copies a string
 *@dest: holds the string copy
-*@src: source string
-*@n: max no. of bytes to copied from src
+*@src: the source string
+*@n: max no. of bytes to be copied from src
 *
 *Return: pointer to the resulting string
 */
